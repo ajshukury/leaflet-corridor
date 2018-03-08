@@ -1,0 +1,7 @@
+{
+  "name": "leaflet-corridor",
+  "version": "0.0.1",
+  "description": "Leaflet plugin to draw a polyline with fixed width in meters",
+  "main": "dist/leaflet-corridor.js",
+  "browser": "dist/leaflet-corridor.js",
+}
